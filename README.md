@@ -147,12 +147,14 @@ Dari hasil evaluasi, dapat dilihat bahwa model SVD memiliki nilai MAE dan RMSE y
 
 **Kesimpulan** 
 
-1.  Problem Statements dan Goals 
+1.  Problem Statements dan Goals
+   
 a. Proyek ini bertujuan untuk membangun sistem rekomendasi yang akurat dengan membandingkan peforma dua algoritma, yaitu KNN dan SVD.
 
 b. Berdasarkan hasil evaluasi, Model SVD menunjukkan peforma yang lebih baik, sehingga memenuhi goal proyek dalam memberikan rekomendasi produk yang lebih relevan dan akurat.
 
-2. Solution Approach 
+2. Solution Approach
+   
 a. Proyek telah menjalankan dua pendekatan solusi, yaitu menggunakan model KNN dan SVD. Perbandingan peforma kedua pendekatna ini telah dilakukan melalui meterik MAE dan RMSE.
 
 b. Dengan ini, Solution Approach yang dirancang telah berhasil diimpelemtasikan sesuai rencana, menghasilkan model rekomendasi yang dapat dievaluasi dan memberikan hasil yang menjawab tujuan proyek. 
